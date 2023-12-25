@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "First Post",
+      "content": "This is the content of the first post."
+    },
+    {
+      "id": 2,
+      "title": "Second Post",
+      "content": "This is the content of the second post."
+    },
+    {
+      "title": "jbjb",
+      "content": " njjbj",
+      "id": 3
+    },
+    {
+      "title": "bjbn",
+      "content": "nknk",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "title": "inikn",
+      "content": "ojin",
+      "id": 6
+    },
+    {
+      "title": "njn",
+      "content": "nkn",
+      "id": 7
+    }
+  ]
+}
