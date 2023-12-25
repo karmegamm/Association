@@ -1,9 +1,25 @@
-import React from 'react'
+import { Fragment } from 'react';
 
-export function Jsx() {
+//Functional Component
+const JsxComponent = () => {
+
   return (
-    <div>Jsx</div>
-  )
-}
+      <h1>Hello, World!</h1>
+  );
+};
 
-export default Jsx
+export default JsxComponent;
+
+
+// import { Component } from 'react';
+
+////class Component
+// class JsxComponent extends Component {
+//   render() {
+//     return (
+//       <h1>Hello, World!</h1>
+//     );
+//   }
+// }
+
+// export default JsxComponent;
