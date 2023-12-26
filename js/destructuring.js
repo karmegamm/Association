@@ -1,4 +1,3 @@
-
 // Object to be destructured
 const person = {
      firstName: 'John',
